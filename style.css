@@ -1,0 +1,33 @@
+.section-header{
+    display: flex;
+    justify-content: space-between;
+    height: 30vh;
+}
+.info{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 0px;
+}
+
+.info h2{
+    font-size: 26px;
+    color: brown;
+}
+.info h3{
+    color: chocolate;
+    
+}
+.info p{
+    font-weight: bold;
+}
+
+#fsr-logo img{
+    padding: 0 30px;
+    width: 200px;
+    object-fit: cover;
+}
+#mit-logo img{
+    padding: 0 30px;
+    width: 130px;
+    object-fit: cover;
+}
